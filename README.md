@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+- 🌱 I’m currently learning: C and JavaScript.
+- 📫 How to reach me: pedroxlbd@gmail.com
+
 <div>
   <a href="https://github.com/Phenriqx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phenriqx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
