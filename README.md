@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, JavaScript and SQL
 - 📫 How to reach me: pedroxlbd@gmail.com
 
 <div>
