@@ -33,18 +33,22 @@ Hi there, I am a Brazilian back-end developer and a software engineering student
 
 #
 
-### 💻 GitHub Profile Stats
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-![Phenriqx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phenriqx&show_icons=true&theme=gruvbox)
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Phenriqx&langs_count=8&layout=compact&theme=gruvbox&hide_border=false&hide=Jupyter%20Notebook,Roff" height="195px"/></a>
+  <h3>🔥 Streak Stats</h3>
 
-<h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Phenriqx's streak" alt="Phenriqx's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Phenriqx&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
 
+  <h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="Phenriqx's Streak" alt="Phenriqx's Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Phenriqx&theme=gruvbox&hide_border=true&short_numbers=true&border_radius=4.5&hide_border=True&"/>
-</a>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Phenriqx's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Phenriqx&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Phenriqx's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Phenriqx&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 #
 
 <!---<details>
