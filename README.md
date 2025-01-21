@@ -35,7 +35,8 @@ Hi there, I am a Brazilian back-end developer and a software engineering student
 
 ### 📊 Stats
 
-![Phenriqx's GitHub stats](https://github-readme-stats.vercel.app/api?username=phenriqx&show_icons=true&theme=gruvbox)
+![Phenriqx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phenriqx&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Phenriqx)](https://git.io/streak-stats)
 
 #
 
