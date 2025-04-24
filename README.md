@@ -37,14 +37,13 @@ Hi there, I am a Brazilian back-end developer and a Computer Science undergradua
 
 #
 
-
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Phenriqx's streak" alt="Phenriqx's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Phenriqx&theme=react&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Phenriqx's streak" alt="Phenriqx's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Phenriqx&theme=react&hide_border=false&short_numbers=true"/>
     </a>
   </p>
 
@@ -56,6 +55,7 @@ Hi there, I am a Brazilian back-end developer and a Computer Science undergradua
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phenriqx&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
+
 
 
 <!---<details>
