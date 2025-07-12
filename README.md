@@ -2,7 +2,7 @@
 
 **`Student and Coding Enthusiast`**
 
-Hi there, I am a Brazilian back-end developer and a Computer Science undergraduate at *<a href='https://ufop.br/'>UFOP</a>*. For me, coding is a way to bring creative ideas to life — ideas that, without code, would never be possible. I specialize in building efficient and scalable server-side applications, I enjoy working with databases, APIs, and optimizing system performance. Always eager to learn, I stay updated with the latest tech trends. Coding isn't just a duty for me, it's a hobby. Let's connect and collaborate on innovative projects!
+Hi there, I am a Brazilian back-end developer and a Computer Science undergraduate at *<a href='https://ufop.br/'>UFOP</a>*. For me, coding is a way to bring creative ideas to life — ideas that, without code, would never be possible. I specialize in building efficient and scalable server-side applications, I enjoy working with databases, APIs, and optimizing system performance. Coding isn't just a duty for me, it's a hobby. Let's connect and collaborate on innovative projects!
 
 <p align='left'>
   <a href='https://github.com/Phenriqx'>
