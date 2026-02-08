@@ -35,7 +35,7 @@ Hi there, I am a Brazilian back-end developer and a Computer Science undergradua
 
 #
 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+  <!-- <summary><h2>Stats and Activity</h2></summary>
 
   <!-- <h3>🔥 Streak Stats</h3>
 
@@ -45,16 +45,12 @@ Hi there, I am a Brazilian back-end developer and a Computer Science undergradua
     </a>
   </p> !-->
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <!--<h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Phenriqx&theme=react&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phenriqx&layout=compact&langs_count=10&card_width=320&theme=react&hide=svelte" />
-</a>
-
-
-
-<!---<details>
-<summary><h3>👨‍💻 Phenriqx's Coding Journey</h3></summary>
+</a> -->
