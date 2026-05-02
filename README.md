@@ -48,9 +48,9 @@ Hi there, I am a Brazilian back-end developer and a Computer Science undergradua
   <!--<h3>💻 GitHub Profile Stats</h3> -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Phenriqx&theme=react&include_all_commits=true" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phenriqx&layout=compact&langs_count=10&card_width=320&theme=react&hide=svelte,makefile,Jupyter%20Notebook" />
 </a> 
